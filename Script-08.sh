@@ -1,6 +1,5 @@
 #!/bin/bash
 
-nArquivo=$(ls ./)
 nLinhas=""
 
 for r in $(ls);
